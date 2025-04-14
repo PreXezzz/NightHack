@@ -77,7 +77,7 @@ NightCheat is a versatile and feature-rich utility client for Minecraft, offerin
 
 ## 🖥️ Installation
 
-1. **Download** the `NightCheat.exe` file from the [releases](./releases) section.  
+1. **Download** the `NightCheat.exe` file from the [releases](./releases/tag/Versions) section.  
 2. **Launch Minecraft** using a supported version (see below).  
 3. **Run NightCheat.exe** – the client will automatically attach to the game.  
 
